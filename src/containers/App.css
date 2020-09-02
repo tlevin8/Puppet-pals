@@ -1,0 +1,13 @@
+@font-face {
+  font-family: "Fun Cartoon 2 Regular";
+  font-style: normal;
+  font-weight: normal;
+  src: local("Fun Cartoon 2 Regular"), url("FunCartoon2.woff") format("woff");
+}
+
+h1 {
+  font-family: "Fun Cartoon 2 Regular";
+  font-size: 8rem;
+  margin: 1.5rem 0;
+  color: rgb(28, 41, 116);
+}
