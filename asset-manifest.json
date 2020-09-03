@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/puppet-pals/static/css/main.42356629.chunk.css",
+    "main.js": "/puppet-pals/static/js/main.3eb9041b.chunk.js",
+    "main.js.map": "/puppet-pals/static/js/main.3eb9041b.chunk.js.map",
+    "runtime-main.js": "/puppet-pals/static/js/runtime-main.9ec2f379.js",
+    "runtime-main.js.map": "/puppet-pals/static/js/runtime-main.9ec2f379.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/puppet-pals/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.86d734ac.chunk.js": "/puppet-pals/static/js/2.86d734ac.chunk.js",
+    "static/js/2.86d734ac.chunk.js.map": "/puppet-pals/static/js/2.86d734ac.chunk.js.map",
+    "index.html": "/puppet-pals/index.html",
+    "precache-manifest.40d4e384ff85c0314add96e6d0575b58.js": "/puppet-pals/precache-manifest.40d4e384ff85c0314add96e6d0575b58.js",
+    "service-worker.js": "/puppet-pals/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/puppet-pals/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.42356629.chunk.css.map": "/puppet-pals/static/css/main.42356629.chunk.css.map",
+    "static/js/2.86d734ac.chunk.js.LICENSE.txt": "/puppet-pals/static/js/2.86d734ac.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/puppet-pals/static/media/FunCartoon2.fd9d6157.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9ec2f379.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.86d734ac.chunk.js",
+    "static/css/main.42356629.chunk.css",
+    "static/js/main.3eb9041b.chunk.js"
+  ]
+}
